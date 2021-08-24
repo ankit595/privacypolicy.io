@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+body{
+    background:#c2f0f0;
+}
+.navbar h1{
+    color:white;
+    font-family: 'Rampart One', cursive;
+    padding-left:2rem;
+}
+.foot{
+    background:black;
+}
